@@ -1,0 +1,5 @@
+Documentation:
+    Enabled: false
+Metrics/MethodLength:
+  CountComments: false
+  Max: 14
